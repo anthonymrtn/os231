@@ -1,0 +1,15 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC W00 30 L01 Checked courses on SCeLE
+ZCZC W00 60 L02 MLTI Zoom Meeting (First meeting with Lecturer Team & TA Team)
+ZCZC W00 20 L03 Github related
+ZCZC W00 5 L05 OS Quiz Week00
+ZCZC W00 120 L10 Worked on Assignment #00
+ZCZC W00 15 L41 Worked on TXT/mylog.txt
+ZCZC W00 1440 L71 Internship
+ZCZC W00 240 L73 Played several ranked battles on Pokemon Violet (Nintendo Switch)
+ZCZC W00 120 L81 Listened to some music on Spotify
+ZCZC W00 180 L83 Fed, cleaned up litter, and played with pet cat & dog
+ZCZC W00 2940 L84 Bedtime
+ZCZC W00 300 L86 House chores
