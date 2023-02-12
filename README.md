@@ -3,7 +3,7 @@ Operating Systems 2023-1 (Even Semester 22/23)
 
 ## Check these out:
 - [My Log](../main/TXT/mylog.txt)
-- [GitHub Repo]()
+- [GitHub Repo](/os231)
 
 FUN FACT!
 ---------
