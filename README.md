@@ -12,7 +12,7 @@ Operating Systems 2023-1 (Even Semester 22/23)
 | Tugas Akhir | - | - | Dadan Hardianto, S.Kom., M.Kom. |
 
 ## Check these out!
-[GitHub Repo](https://github.com/anthonymrtn/os231) || [Weekly Log](../main/TXT/mylog.txt)
+[GitHub Repo](https://github.com/anthonymrtn/os231) | | [Weekly Log](../main/TXT/mylog.txt)
 
 FUN FACT
 ---------
