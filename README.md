@@ -1,7 +1,9 @@
 # os231
 Operating Systems 2023-1 (Even Semester 22/23)
 
-[Check out my log](../main/TXT/mylog.txt)
+## Check these out:
+- [My Log](../main/TXT/mylog.txt)
+- [GitHub Repo](../main)
 
 FUN FACT!
 ---------
