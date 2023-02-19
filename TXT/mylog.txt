@@ -13,3 +13,10 @@ ZCZC W00 120 L81 Listened to some music on Spotify
 ZCZC W00 180 L83 Fed, cleaned up litter, and played with pet cat & dog
 ZCZC W00 2940 L84 Bedtime
 ZCZC W00 300 L86 House chores
+ZCZC W01 30 L01 Checked courses on SCeLE
+ZCZC W01 20 L03 Github related
+ZCZC W01 30 L05 OS Quiz
+ZCZC W01 300 L10 Worked on Assignment #01
+ZCZC W01 15 L41 Worked on TXT/mylog.txt
+ZCZC W01 1440 L71 Internship
+ZCZC W01 60 L00 General, etc.
