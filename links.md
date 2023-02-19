@@ -13,3 +13,5 @@ permalink: LINKS/
 ...The link above leads to a pdf file that provides rich explanation about sed (stream editor). I found it useful when writing a script, especially for text transformation purposes.
 5. [osp4diss](https://osp4diss.vlsm.org/)
 ...The link above leads to a website that contains most information you need about VirtualBox. I found it useful for weekly assignments that involve VirtualBox usage.
+6. [Previous Midterm Problems](https://rms46.vlsm.org/2/196.pdf)
+...The link above leads to a pdf file that provides some midterm exam problems from previous years. I found it interesting because I can test out my OS knowledge and learn a variety of new insights.
