@@ -3,7 +3,7 @@ permalink: LINKS/
 ---
 
 # LINKS
-1. [Basic Linux Commands](https://youtu.be/wBp0Rb-ZJak)<br>
+1. [Basic Linux Commands](https://youtu.be/CpTfQ-q6MPU)<br>
 The link above leads to a YouTube video that explains about basic Linux commands. It is useful for beginner users like me who's not familiar with Linux ecosystem and to help on working OS assignments.
 
 2. [Learn REGEX in 15 minutes](https://youtu.be/bgBWp9EIlMM)<br>
