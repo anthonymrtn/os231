@@ -3,6 +3,8 @@ permalink: LINKS/
 ---
 
 # LINKS
+
+## Week 01
 1. [Basic Linux Commands](https://youtu.be/CpTfQ-q6MPU)<br>
 The link above leads to a YouTube video that explains about basic Linux commands. It is useful for beginner users like me who's not familiar with Linux ecosystem and to help on working OS assignments.
 
@@ -20,3 +22,22 @@ The link above leads to a website that contains most information you need about 
 
 6. [Previous Midterm Problems](https://rms46.vlsm.org/2/196.pdf)<br>
 The link above leads to a pdf file that provides some midterm exam problems from previous years. I found it interesting because I can test out my OS knowledge and learn a variety of new insights.
+
+## Week 02
+1. [Beginner's Guide to Internet Safety & Privacy](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)<br>
+The link above leads to an article about which information you should keep private, who you're protecting yourself from, as well as how to protect your privacy over on the internet. I found this article particularly useful for heavy internet users like me who can sometimes overlook on small privacy aspects which could potentially harm my credentials, electronic devices, or even myself.
+
+2. [Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)<br>
+The link above leads to an article that provides rich information about cyber security and privacy. In the article, there's a bunch of YouTube video links that explains about zero trust environment, disaster recovery and resiliency, employee security policy, and so on. One particular topic I found interesting from the video was about how a cyber attack can be successfully carried out. There are 3 major things that need to be fulfilled: a vulnerability, a vector to the vulnerability, and an event. A lot of big companies out there turn out to have massive vulnerabilities and wide open vectors in their systems, but nobody yet has performed an attack towards them so they don't realize how bad the issue is. Operational security plays a huge role in tackling this problem by decreasing the visibility of one's infrastructure, making it difficult for hackers to take further actions when striking a system.
+
+3. [What is GPG?](https://www.goanywhere.com/blog/what-is-gpg)<br>
+The link above leads to an article that provides concise explanation about GNU Privacy Guard (GnuPG). I found it useful for contextualizing what I did during the GnuPG Key setup process for this week's assignment.
+
+4. [How to Use Nano, the Linux Command Line Text Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)<br>
+The link above leads to an article about GNU nano, a text editor that is easy to use for new users. It helps me with editing files in my repo such as mylog.txt as it has all the basic functionality I'd expect from a regular text editor.
+
+5. [C Language Introduction](https://www.geeksforgeeks.org/c-language-introduction/)<br>
+The link above leads to an article that provides an introduction to the C Language. It helps me understand the main features of the language as well as syntaxes used to run a C program. The related articles stated at the bottom part of the article also help me a lot when working on this week's QUIZ 02.
+
+6. [DDoS Attack Explained](https://bit.ly/DDoS-Attack-Explained)<br>
+The link above leads to a YouTube video that briefly explains how a DDoS attack occurs. I found this cyber attack intriguing because it doesn't necessarily compromise confidential or sensitive data of users, but instead may bring downfall to a business in a large scale. One example of this attack in Indonesia happened in mid 2009 where the .co.id domain experienced a disruption that lasted for 4 days, making the domain users unable to access their desired service (ex: yahoo.co.id).
