@@ -21,3 +21,5 @@ FUN FACT
 This Pokémon is called **Type: Null**
 
 ![An image of Type: Null](https://assets.pokemon.com/assets/cms2/img/pokedex/full/772.png "Type: Null")
+
+Passphrase for myscript.sh is **anthonymrtn**
