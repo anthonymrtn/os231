@@ -49,7 +49,7 @@ The link above leads to a discussion forum on OS SCeLE page that is used for inq
 2. [An Introduction to Useful Bash Aliases and Functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)<br>
 The link above leads to an article about bash aliases; shortcuts of the majority of commands available on the command line. I find it interesting because now I know what some of the commands stand for, such as "cd" for "change-directory" and "ls"for "list". I also learn how to declare a bash alias now thanks to this article.
 
-3. [How to Copy Files From Linux to Windows using PowerShell](ristek.link/HtCFFLtWuP)<br>
+3. [How to Copy Files From Linux to Windows using PowerShell](https://ristek.link/HtCFFLtWuP)<br>
 The link above leads to a YouTube video that explains how to transfer files from a Linux guest to a Windows Host by utilizing some commands on PowerShell. It helps me when moving a .tar.xz.asc file from my Debian guest over to my Windows directory (QUIZ02 related).
 
 4. [How to Make a TAR Directory and Compress Your Data on Linux](https://www.makeuseof.com/how-to-make-a-tar-directory-compress-data-linux/)<br>
