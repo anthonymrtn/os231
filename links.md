@@ -41,3 +41,16 @@ The link above leads to an article that provides an introduction to the C Langua
 
 6. [DDoS Attack Explained](https://bit.ly/DDoS-Attack-Explained)<br>
 The link above leads to a YouTube video that briefly explains how a DDoS attack occurs. I found this cyber attack intriguing because it doesn't necessarily compromise confidential or sensitive data of users, but instead may bring downfall to a business in a large scale. One example of this attack in Indonesia happened in mid 2009 where the .co.id domain experienced a disruption that lasted for 4 days, making the domain users unable to access their desired service (ex: yahoo.co.id).
+
+## Week 03
+1. [OS231 Operating Systems Feb-Jun 2023 (SCeLE) > General](https://scele.cs.ui.ac.id/mod/forum/view.php?id=133801)<br>
+The link above leads to a discussion forum on OS SCeLE page that is used for inquiries regarding assignments etc. Helps me a lot when I couldn't remove a file with the 'rm' command and also when I couldn't properly run 03-WEEK03.sh due to the '/anthonymrtn/' directory not existing (SOLVED btw).
+
+2. [An Introduction to Useful Bash Aliases and Functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)<br>
+The link above leads to an article about bash aliases; shortcuts of the majority of commands available on the command line. I find it interesting because now I know what some of the commands stand for, such as "cd" for "change-directory" and "ls"for "list". I also learn how to declare a bash alias now thanks to this article.
+
+3. [How to Copy Files From Linux to Windows using PowerShell](ristek.link/HtCFFLtWuP)<br>
+The link above leads to a YouTube video that explains how to transfer files from a Linux guest to a Windows Host by utilizing some commands on PowerShell. It helps me when moving a .tar.xz.asc file from my Debian guest over to my Windows directory (QUIZ02 related).
+
+4. [How to Make a TAR Directory and Compress Your Data on Linux](https://www.makeuseof.com/how-to-make-a-tar-directory-compress-data-linux/)<br>
+The link above leads to an article which explains about how to compress files into tarball. Helps me a lot when I tried to compress my d1806185355 directory for this week's QUIZ02.
