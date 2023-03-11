@@ -54,3 +54,16 @@ The link above leads to a YouTube video that explains how to transfer files from
 
 4. [How to Make a TAR Directory and Compress Your Data on Linux](https://www.makeuseof.com/how-to-make-a-tar-directory-compress-data-linux/)<br>
 The link above leads to an article which explains about how to compress files into tarball. Helps me a lot when I tried to compress my d1806185355 directory for this week's QUIZ02.
+
+## Week 04
+1. [Beginner's Guide to Linux Programming](https://www.simplilearn.com/linux-programming-for-beginners-article)<br>
+The link above leads to an article that provides a brief introduction to beginners on Linux Programming. The article gave me new insights on the various uses of Linux Programming and how we can benefit it for future careers.
+
+2. [README for code in The Linux Programming Interface](https://man7.org/tlpi/code/README.html)<br>
+The link above leads to a README file that provides an explanation on the code for the book TLPI. I find it useful so I can get more context on what TLPI is especially for the "dist" version, and also to learn more about the various subdirectories contained in the 'tlpi' directory.
+
+3. [An Introduction to Storage Terminology and Concepts in Linux](https://www.digitalocean.com/community/tutorials/an-introduction-to-storage-terminology-and-concepts-in-linux)<br>
+The link above leads to an article that helps you understand more about storage concepts in Linux. It helps me understand how Linux manages storage devices, especially the mounting block devices process which we successfully did on WEEK03 assignment.
+
+4. [What Is Virtual Memory on Linux? How to Manage It](https://www.makeuseof.com/virtual-memory-on-linux/)<br>
+The link above leads to an article about Linux Virtual Memory and how we can manage it and maximize its potential. I find it useful because I have a hard time understanding the concept of memory management in Linux. One interesting fact I found from the article is that with virtual memory, developers are able to create apps without knowing the memory organization of a computer.
