@@ -40,3 +40,9 @@ ZCZC W04 30 L05 OS Quiz 01
 ZCZC W04 300 L10 Worked on Assignment #04
 ZCZC W04 1440 L71 Internship
 ZCZC W04 60 L00 General, etc.
+ZCZC W05 30 L01 Checked courses on SCeLE
+ZCZC W05 20 L03 Github related
+ZCZC W05 30 L05 OS Quiz 01
+ZCZC W05 300 L10 Worked on Assignment #05
+ZCZC W05 1440 L71 Internship
+ZCZC W05 60 L00 General, etc.

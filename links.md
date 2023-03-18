@@ -67,3 +67,16 @@ The link above leads to an article that helps you understand more about storage 
 
 4. [What Is Virtual Memory on Linux? How to Manage It](https://www.makeuseof.com/virtual-memory-on-linux/)<br>
 The link above leads to an article about Linux Virtual Memory and how we can manage it and maximize its potential. I find it useful because I have a hard time understanding the concept of memory management in Linux. One interesting fact I found from the article is that with virtual memory, developers are able to create apps without knowing the memory organization of a computer.
+
+## Week 05
+1. [How much memory (RAM) should I allocate to the Virtual Machine?](https://askubuntu.com/questions/150105/how-much-memory-ram-should-i-allocate-to-the-virtual-machine)<br>
+The link above leads to a forum on how we should allocate memory to a virtual machine. I found it useful so I know that you don't have to go overboard with your memory usage.
+
+2. [Allocating kernel memory (buddy system and slab system)](https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/)<br>
+The link above leads to an article about strategies on how to manage assigned free memory to kernel processes. I found out that buddy system is preferrable over dynamic allocation because of easy implementation and higher efficiency.
+
+3. [Paging vs Segmentation: Core Differences Explained](https://www.enterprisestorageforum.com/hardware/paging-and-segmentation/#:~:text=Paging%20is%20a%20memory%20management,sized%20address%20spaces%20called%20segments.&text=Paging%20and%20segmentation%20are%20processes,from%2C%20a%20computer's%20storage%20disk.)<br>
+The link above leads to an article that compares paging & segmentation from several aspects. I found it useful so that I know the advantages and disadvantages of each component.
+
+4. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/)<br>
+The link above leads to an article about a resource management technique called Copy on Write (COW). It made me understand fork() system call and that modifications of shared pages will be done to the copy instead. Therefore, other processes are not affected at all.
