@@ -80,3 +80,16 @@ The link above leads to an article that compares paging & segmentation from seve
 
 4. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/)<br>
 The link above leads to an article about a resource management technique called Copy on Write (COW). It made me understand fork() system call and that modifications of shared pages will be done to the copy instead. Therefore, other processes are not affected at all.
+
+## Week 06
+1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+The link above leads to an article about fork system call. I found it useful so that I understand how a child process can run concurrently with parent process.
+
+2. [Multithreading and concurrency fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+The link above leads to an article that explains about multithreading and concurrency concepts in programming. I found it useful because there are examples and practical tips that can help developers avoid common pitfalls when working with multithreaded code.
+
+3. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+The link above leads to an article that provides a brief explanation on the difference between process and thread. I found the article useful because it provides several examples to demonstrate the differences between processes and threads.
+
+4. [Understanding and Detecting Concurrency Attacks](https://r.search.yahoo.com/_ylt=Awr1VSelRh9kLOE1DAPLQwx.;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1679800102/RO=10/RU=https%3a%2f%2fwww.cs.columbia.edu%2f~ruigu%2fpapers%2fconattack.pdf/RK=2/RS=LNPZL05_2Ha6f1P3dflsi3R_rYc-)<br>
+The link above leads to a research paper that discusses different types of concurrency attacks that can occur in multithreaded programs. It also proposes various defense mechanisms to mitigate such attacks. I found the paper useful because it gives a comprehensive overview of concurrency attacks, including data races, deadlocks, livelocks, and atomicity violations.
