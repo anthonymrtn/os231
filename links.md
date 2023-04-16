@@ -93,3 +93,16 @@ The link above leads to an article that provides a brief explanation on the diff
 
 4. [Understanding and Detecting Concurrency Attacks](https://r.search.yahoo.com/_ylt=Awr1VSelRh9kLOE1DAPLQwx.;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1679800102/RO=10/RU=https%3a%2f%2fwww.cs.columbia.edu%2f~ruigu%2fpapers%2fconattack.pdf/RK=2/RS=LNPZL05_2Ha6f1P3dflsi3R_rYc-)<br>
 The link above leads to a research paper that discusses different types of concurrency attacks that can occur in multithreaded programs. It also proposes various defense mechanisms to mitigate such attacks. I found the paper useful because it gives a comprehensive overview of concurrency attacks, including data races, deadlocks, livelocks, and atomicity violations.
+
+## WEEK07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+The link above leads to an article that briefly explains about process synchronization. I found that synchronization has several advantages and disadvantages, such as ensuring data consistency and integrity, but may cause deadlocks if the implementation is not done properly.
+
+2. [Deadlock: What it is, How to Detect, Handle and Prevent?](https://www.baeldung.com/cs/os-deadlock)<br>
+The link above leads to an article that gives an overview on deadlocks. I found it useful because I get to know how to prevent it from happening. One technique we can use is removal of circular wait.
+
+3. [Simple Deadlock Examples](https://stackoverflow.com/questions/1385843/simple-deadlock-examples)<br>
+The link above leads to a forum that discusses about deadlock examples. I found it useful because I get to understand deadlocks more from real life examples; one of it being a simple bank situation where there are two threads that attempt to run one particular method but with reverse order parameters.
+
+4. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+The link above leads to an article that explains about critical section problem in operating systems. I found it useful because I get to know some solutions to the critical section, one of it being the Peterson solution. It makes sure that at a specific time, only a single process runs in the critical section.
