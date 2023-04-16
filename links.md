@@ -94,7 +94,7 @@ The link above leads to an article that provides a brief explanation on the diff
 4. [Understanding and Detecting Concurrency Attacks](https://r.search.yahoo.com/_ylt=Awr1VSelRh9kLOE1DAPLQwx.;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1679800102/RO=10/RU=https%3a%2f%2fwww.cs.columbia.edu%2f~ruigu%2fpapers%2fconattack.pdf/RK=2/RS=LNPZL05_2Ha6f1P3dflsi3R_rYc-)<br>
 The link above leads to a research paper that discusses different types of concurrency attacks that can occur in multithreaded programs. It also proposes various defense mechanisms to mitigate such attacks. I found the paper useful because it gives a comprehensive overview of concurrency attacks, including data races, deadlocks, livelocks, and atomicity violations.
 
-## WEEK07
+## Week 07
 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 The link above leads to an article that briefly explains about process synchronization. I found that synchronization has several advantages and disadvantages, such as ensuring data consistency and integrity, but may cause deadlocks if the implementation is not done properly.
 
