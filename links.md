@@ -106,3 +106,10 @@ The link above leads to a forum that discusses about deadlock examples. I found 
 
 4. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
 The link above leads to an article that explains about critical section problem in operating systems. I found it useful because I get to know some solutions to the critical section, one of it being the Peterson solution. It makes sure that at a specific time, only a single process runs in the critical section.
+
+## Week 08
+1. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+The link above leads to an article that explains the concept of CPU scheduling in operating systems. I found the article useful because I got to know the advantages and disadvantages of each type of CPU scheduling.
+
+2. [Scheduling algorithms and operating systems support for real-time systems](https://ieeexplore.ieee.org/document/259426)<br>
+The link above leads to a paper about work of scheduling and operating system kernels. It gives me new insights on how this technique be applied in real life uses.
