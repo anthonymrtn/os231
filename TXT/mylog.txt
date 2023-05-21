@@ -61,3 +61,13 @@ ZCZC W08 20 L03 Github related
 ZCZC W08 300 L10 Worked on Assignment #06
 ZCZC W08 1440 L71 Internship
 ZCZC W08 60 L00 General, etc.
+ZCZC W09 30 L01 Checked courses on SCeLE
+ZCZC W09 20 L03 Github related
+ZCZC W09 300 L10 Worked on Assignment #06
+ZCZC W09 1440 L71 Internship
+ZCZC W09 60 L00 General, etc.
+ZCZC W10 30 L01 Checked courses on SCeLE
+ZCZC W10 20 L03 Github related
+ZCZC W10 300 L10 Worked on Assignment #06
+ZCZC W10 1440 L71 Internship
+ZCZC W10 60 L00 General, etc.

@@ -113,3 +113,17 @@ The link above leads to an article that explains the concept of CPU scheduling i
 
 2. [Scheduling algorithms and operating systems support for real-time systems](https://ieeexplore.ieee.org/document/259426)<br>
 The link above leads to a paper about work of scheduling and operating system kernels. It gives me new insights on how this technique be applied in real life uses.
+
+## Week 09
+1. [BootManager and BootLoader in Operating Systems](https://www.geeksforgeeks.org/bootmanager-and-bootloader-in-operating-systems/)<br>
+The link above leads to an article that explains about Boot Loader and Boot Manager. I found it useful so that I understand how operating systems are going to be loaded. I also got to know a series of tasks a typical Boot Loader is expected to perform.
+
+2. [Differences Between Firmware and Operating System](https://www.baeldung.com/cs/firmware-vs-os)<br>
+The link above leads to an article that explains the differences between a firmware and an operating system. One interesting difference I found is that a firmware can't be modified since it's integrated into the hardware, whereas the user can modify the functionalities of an OS.
+
+## Week 10
+1. [I/O Systems](https://www.codecademy.com/learn/becp-22-fundamentals-of-operating-systems/modules/wdcp-22-io-systems/cheatsheet)<br>
+The link above leads to an article that contains a cheatsheet about I/O Systems. I found it useful for people that are trying to understand the fundamentals of OS.
+
+2. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)<br>
+The link above leads to an article that explains the concept of I/O Hardware in Operating Systems. An interesting thing I found from the article was the daisy chain method which enables multiple I/O devices to be connected with each other through a single connection point.
